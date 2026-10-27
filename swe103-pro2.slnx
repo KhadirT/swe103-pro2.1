@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="swe103-pro2/swe103-pro2.vcxproj" Id="bac3014c-6249-408f-bc69-8bf7caacf8d9" />
+</Solution>
